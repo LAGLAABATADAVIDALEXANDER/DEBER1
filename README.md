@@ -234,7 +234,7 @@ El voltaje sera de 250 Volts
 
 ### Video
 
-https://www.youtube.com/watch?v=qNiqqTSnFBM&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ
+https://www.youtube.com/watch?v=TiASgJ6mnHA&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ
 
 ### 5.Conclusiones
 
