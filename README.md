@@ -28,6 +28,7 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 ![Cuadro sinóptico sencillo](https://user-images.githubusercontent.com/116814386/201004262-a6bbfcfc-0a55-41af-8c1d-aeaa3e67647d.png)
 ![Cuadro Sinóptico sencillo Administración apuntes de libreta colorido](https://user-images.githubusercontent.com/116814386/201004606-cd6f9b45-3df0-4906-abff-b20573c2cce2.png)
 ![image](https://user-images.githubusercontent.com/116814386/201002380-a54985eb-ebab-48eb-966d-ac9da1f8a099.png)
+### 3.Ejercicicios impares del libro de Floyd
 *Notación científica
 1. Exprese cada uno de los siguientes númers en notación científica:
 
@@ -231,7 +232,9 @@ El voltaje sera de 250 Volts
 
 ![image](https://user-images.githubusercontent.com/116814386/201029392-b0e7420a-164a-472d-ad38-c898f7c159d3.png)
 
-### 4Video
+### Video
+
+https://www.youtube.com/watch?v=qNiqqTSnFBM&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ
 
 ### 5.Conclusiones
 
