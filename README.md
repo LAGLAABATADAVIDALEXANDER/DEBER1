@@ -210,26 +210,33 @@ Pata la intensidad de corriente Para el voltaje
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
 
+![image](https://user-images.githubusercontent.com/116814386/201029731-9abe4b28-16c7-49e1-b8a5-3b3b4a8211ab.png)
 
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería
 
+![image](https://user-images.githubusercontent.com/116814386/201029954-4049cd4c-b546-43b2-8812-d0f81d7f13f4.png)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro: 
-(a) manecilla en 2, ajuste de intervalo en 10 
-20
-(b) manecilla en 15, ajuste de intervalo en 100,000 
-100k
+El voltaje sera de 250 Volts
 
-(c) manecilla en 45, ajuste de intervalo en 100
-4.5k
+45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro: 
+
+![image](https://user-images.githubusercontent.com/116814386/201029555-5bf2491e-49ef-4a48-b8c7-df3832b235d1.png)
+
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
 (a) I1 (b) V1 (c) R1
+
+![image](https://user-images.githubusercontent.com/116814386/201029392-b0e7420a-164a-472d-ad38-c898f7c159d3.png)
+
 ### 4Video
 
 ### 5.Conclusiones
 
+Se concluye que yodos los conceptos tratados en los capitulos 1y 2 son de suma importancia para elanalisis de circuitos elctricos y electronicos.
+
 ### 6.Bibliografia
+
+http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
