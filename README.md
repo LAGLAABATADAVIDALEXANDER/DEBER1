@@ -89,7 +89,8 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 ![image](https://user-images.githubusercontent.com/116814386/201007468-d213fd23-c472-416c-a663-71307307f735.png)
 
 29. Sume las siguientes cantidades:
-Carga eléctrica
+
+Carga eléctrica.
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 Un átomo de cobre tiene 29 electrones y 29 protones 
 
@@ -100,6 +101,7 @@ Un átomo de cobre tiene 29 electrones y 29 protones
 ![image](https://user-images.githubusercontent.com/116814386/201022863-9eb50774-60d2-4668-87a1-ea7a4d136cde.png)
 
 Voltaje, corriente y resistencia.
+
 5. Determine el voltaje en cada uno de los siguientes casos:
 
 ![image](https://user-images.githubusercontent.com/116814386/201023121-5920ed30-395b-4136-9157-15283f5d2415.png)
@@ -125,6 +127,7 @@ Voltaje, corriente y resistencia.
 ![image](https://user-images.githubusercontent.com/116814386/201023426-d7297166-5951-4726-b454-9d09363427dd.png)
 
 Fuentes de voltaje y de corriente.
+
 17. Enliste cuatro fuentes de voltaje comunes.
 Pilas de 1.5V
 
@@ -154,17 +157,27 @@ Oro :5%
 La resistencia es de 26kΩ±5%
 
 (b) café, gris, rojo, plata.
+
 Café: Primer digito:1.
+
 Gris: Segundo digito:8.
+
 Rojo: Numero de ceros:2.
+
 Plata:10%.
+
 La resistencia es de 1.8kΩ±10%.
 
 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330 Ω, 2,2 kΩ, 56 kΩ, 100 kΩ, y 39 kΩ
+
 330 Ω  Naranja, Naranja, Cafe, Oro. 
+
 2,2 kΩ Rojo, rojo, rojo, oro.
+
 56 kΩ verde, azul, naranja, oro.
+
 100 kΩ cafe, negro, amarillo, oro.
+
 39 kΩ  naranja, blanco, naranja, oro.
 
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento..
@@ -172,6 +185,7 @@ La resistencia es de 1.8kΩ±10%.
 (a) 0.47
 
 amarillo, violeta, plata, oro
+
  (b) 270kΩ
  
  rojo, violeta, amarillo, oro
@@ -183,7 +197,9 @@ verde, café, verde, oro
 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento:
 
 a)	14,7 kΩ = cafe, amarillo, violeta, rojo, cafe.
+
 b)	39,2 Ω = naranja, blanco, rojo, oro, cafe.
+
 c)	9,76 kΩ = blanco, violeta, azul, plata, cafe.
 
 El circuito eléctrico
@@ -193,6 +209,7 @@ El circuito eléctrico
 Es a traves de la lampara 
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
+
 Es el circuito b ya que en dicho circuito hay dos interruptores que llevan la corriente a destinos diferentes sin cerrar el paso de de corriente en ningún lado
 
 ![image](https://user-images.githubusercontent.com/116814386/201027137-a575c1be-315f-45ce-a75b-66c40d15414b.png)
@@ -202,6 +219,7 @@ Es la b puesto que sus interruptores al momebto de activarsr nunc< funcionaron.
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: 
 
 VS1 conectada a R1 y VS2 conectada a R2.
+
 VS1 conectada a R2 y VS2 conectada a R1.
 
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
