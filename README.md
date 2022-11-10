@@ -2,7 +2,7 @@
 
 Nombre:David Lagla
 
-NRC:
+NRC:10063
 
 Ing:Darwin Omar Alulema
 
