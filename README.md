@@ -88,8 +88,6 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 
 ![image](https://user-images.githubusercontent.com/116814386/201007468-d213fd23-c472-416c-a663-71307307f735.png)
 
-29. Sume las siguientes cantidades:
-
 Carga eléctrica.
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 Un átomo de cobre tiene 29 electrones y 29 protones 
